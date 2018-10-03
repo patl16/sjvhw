@@ -1,0 +1,8 @@
+#Body {
+background-color: lightblue;
+} 
+#Title {
+position: absolute;
+left: 485px;
+text-align: center;
+}
